@@ -6,4 +6,4 @@
 *cleaned up previous code
 *Renamed confusing tags
 
-![alt text](./Assets/images/screenshot.png) 
+![alt text](./assets/images/screenshot.png) 
