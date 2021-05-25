@@ -1,2 +1,9 @@
-# Code-Refactor
-Refactoring homework 1's code
+# Code Refactor
+
+## Objectives
+
+*Refactored  code to bring it up to SEO compliance.
+*cleaned up previous code
+*Renamed confusing tags
+
+![alt text](./Assets/images/screenshot.png) 
